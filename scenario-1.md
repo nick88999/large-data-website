@@ -1,0 +1,3 @@
+#Scenario 1
+
+Steve has a few parts of his geology project that he's to do. One of the parts requires Steve to Choose a large scale earthquake in history, write up about the impact that it had on the area, the scale, the type of earthquake that it was. Steve goes on the website and picks the historic earthquakes of Indonesia in 2005, Chile in 1960 and Japan in 2011. All of the information about them is all on the website so he is very much satisfied.
