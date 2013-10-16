@@ -1,0 +1,16 @@
+Unique ID,Title,Source,Category,Owner,Status,Proposed URL
+1,What is an Earthquake,http://en.wikipedia.org/wiki/Earthquake,Earthquakes 101,Nick,Needs to be Written,allaboutearthquakes.com/earthquakes101/whatisanearthquake
+2,Cause of Earthquakes,http://www.ga.gov.au/hazards/earthquakes/earthquake-basics/causes.html,Earthquakes 101,Nick,Needs to be Written,allaboutearthquakes.com/earthquakes101/causesofearthquakes
+3,Interplate Earthquakes,http://en.wikipedia.org/wiki/Interplate_earthquake,Types of Earthquakes,Nick,Needs to be Written,allaboutearthquakes.com/typesofearthquakes/interplateearthquakes
+4,Intraplate Earthquakes,http://en.wikipedia.org/wiki/Types_of_earthquake,Types of Earthquakes,Nick,Needs to be Written,allaboutearthquakes.com/typesofearthquakes/intraplateearthquakes
+5,Megathrust Earthquakes,http://en.wikipedia.org/wiki/Megathrust_earthquake,Types of Earthquakes,Nick,Needs to be Written,allaboutearthquakes.com/typesofearthquakes/megathrustearthquakes
+6,Underwater Earthquakes,http://en.wikipedia.org/wiki/Submarine_earthquake,Types of Earthquakes,Nick,Needs to be Written,allaboutearthquakes.com/typesofearthquakes/underwaterearthquakes
+7,Supershear Earthquakes,http://en.wikipedia.org/wiki/Supershear_earthquake,Types of Earthquakes,Nick,Needs to be Written,allaboutearthquakes.com/typesofearthquakes/supershearearthquakes
+8,Slow Earthquakes,http://en.wikipedia.org/wiki/Slow_earthquake,Types of Earthquakes,Nick,Needs to be Written,allaboutearthquakes.com/typesofearthquakes/slowearthquakes
+9,Tsunami Earthquake,http://en.wikipedia.org/wiki/Tsunami_earthquake,Types of Earthquakes,Nick,Needs to be Written,allaboutearthquakes.com/typesofearthquakes/tsunamiearthquakes
+10,Blind Thrust Earthquake,http://en.wikipedia.org/wiki/Blind_thrust_earthquake,Types of Earthquakes,Nick,Needs to be Written,allaboutearthquakes.com/typesofearthquakes/blindthrustearthquakes
+11,2010 Haiti Earthquake,http://en.wikipedia.org/wiki/2010_Haiti_earthquake,High Magnitude Earthquake History,Nick,Needs to be Written,allaboutearthquakes.com/highmagnitudeearthquakehistory/2010haitiearthquake
+12,2005 Indonesia Earthquake,http://earthquake.usgs.gov/earthquakes/eqinthenews/2005/usweax/,High Magnitude Earthquake History,Nick,Needs to be Written,allaboutearthquakes.com/highmagnitudeearthquakehistory/2005indonesiaearthquake
+13,1960 Chile Earthquake,http://earthquake.usgs.gov/earthquakes/world/events/1960_05_22.php,High Magnitude Earthquake History,Nick,Needs to be Written,allaboutearthquakes.com/highmagnitudeearthquakehistory/1960chileearthquake
+14,2011 Japan Earthquake,http://earthquake.usgs.gov/earthquakes/eqinthenews/2011/usc0001xgp/,High Magnitude Earthquake History,Nick,Needs to be Written,allaboutearthquakes.com/highmagnitudeearthquakehistory/2011japanearthquake
+15,1965 Alaska Earthquake,,High Magnitude Earthquake History,Nick,Needs to be Written,allaboutearthquakes.com/highmagnitudeearthquakehistory/1965alaskaearthquake

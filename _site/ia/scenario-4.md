@@ -1,0 +1,3 @@
+#Scenario 4
+
+Katie feels very attached to her culture, being half japanese and all. She feels the pain from the tragic earthquake that hit Japan, and wants to do anything that she can in order to help. She goes on the earthquake website that has a donate option, where she can put however much up for donation as she wants. Working at Starbucks, she makes a decent amount of money weekly, and decides to donate $80 to the cause.

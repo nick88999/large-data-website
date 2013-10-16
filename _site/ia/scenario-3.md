@@ -1,0 +1,3 @@
+#Scenario 3
+
+Out of interest and curiosity after the Japanese earthquake hit in 2011 and affected some of her distant relatives, Katie has been very curious about earthquakes. She's been curious about general earthquake information and stumbled upon this earthquake website which shows historic earthquakes, the impact that they had, different types of earthquakes and the scientific explanation behind them and much more! Katie is more then satisfied with the dosage of earthquake knowledge.
