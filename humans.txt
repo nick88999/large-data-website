@@ -1,0 +1,27 @@
+Designer & Developer: Nick E Appolon <n.appolon89@gmail.com>
+Site: http://nick88999.github.io/large-data-website
+GitHub: http://github.com/nick88999
+Twitter: @nick88999
+Instagram: nick88999
+Location: Ottawa, Canada
+
+---
+
+# THANKS
+
+Icons from The Noun Project <http://thenounproject.com/>
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+- Dreamweaver cs5.5
+- Git + GitHub
+- Site 44
+- Markdown
+
+## Hosting
+
+- Funio <http://funio.com>
