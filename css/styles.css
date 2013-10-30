@@ -14,9 +14,9 @@ html {
 	height: 110%;
 	font-size: 100%;
 	background-image:url(../img/background-white.jpg);
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	background-attachment:fixed;
-	background-size: 1100px 700px;
+	background-size: 1300px 900px;
 	margin: auto;
  }	
 	
@@ -105,322 +105,11 @@ html {
 	background: grey;
 	margin-top: 20px;
 	float: left;
-}
-
-.bucket2 {
-	width: 150px;
-	height: 150px;
-	background: grey;
-	margin-top: 20px;
-	float: left;
-	margin-left: 70px;
-}
-
-.bucket3 {
-	width: 150px;
-	height: 150px;
-	background: grey;
-	margin-top: 20px;
-	float: left;
-}
-
-.bucket4 {
-	width: 150px;
-	height: 150px;
-	background: grey;
-	margin-top: 20px;
-	margin-left: 70px;
-	float: left;
-	margin-bottom: 20px;
-}
-
-.foot {
-	position: relative;
-    bottom: 0;
-	top: 14px;
-    width: 100%;
-    height: 19px;
-	color: black;
-	font-size: 9px;
-	font-family: Helvetica, sans-serif;
-	font-weight: 100;
-	border-top:thin;
-	border-top-color:black;
-	border-top-style:solid;
-	margin-left: 0px;
-	clear: both;
-	max-width: 375px;
-}
-
-footer p {
-	margin-left: 10px;
-	margin-top: 5px;
-}
-
-.header {
-	color: black;
-	font-size: 17px;
-	font-family: Arial, Helvetica, sans-serif;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	max-width: 420px;
-}
-
-.author {
-	color: black;
-	font-size: 9px;
-	font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
-	font-weight: 300;
-	letter-spacing: 1px;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	max-width: 280px;
-	margin-top: -10px;
-}
-
-.subheader {
-	color: black;
-	font-size: 14px;
-	font-family: Arial, Helvetica, sans-serif;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	margin-top: -10px;
-	max-width: 420px;
-}
-
-.subheader2 {
-	color: black;
-	font-size: 14px;
-	font-family: Arial, Helvetica, sans-serif;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	margin-top: 10px;
-	max-width: 420px;
-}
-
-.subheader3 {
-	color: black;
-	font-size: 14px;
-	font-family: Arial, Helvetica, sans-serif;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	margin-top: 10px;
-	max-width: 420px;
-}
-
-.subheader4 {
-	color: black;
-	font-size: 14px;
-	font-family: Arial, Helvetica, sans-serif;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	margin-top: 10px;
-	max-width: 420px;
-}
-
-.subheader5 {
-	color: black;
-	font-size: 14px;
-	font-family: Arial, Helvetica, sans-serif;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	margin-top: 10px;
-	max-width: 420px;
-}
-
-.subheader6 {
-	color: black;
-	font-size: 14px;
-	font-family: Arial, Helvetica, sans-serif;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	margin-top: 10px;
-	max-width: 420px;
-}
-
-.body {
-	color: black;
-	font-size: 11px;
-	font-family:'Helvetica Neue', Arial;
-	font-weight: 400;
-	letter-spacing: 1px;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	max-width: 390px;
-	margin-top: -10px;
-}
-
-.body2 {
-	color: black;
-	font-size: 11px;
-	font-family:'Helvetica Neue', Arial;
-	font-weight: 400;
-	letter-spacing: 1px;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	max-width: 390px;
-	margin-top: -10px;
-}
-
-.body3 {
-	color: black;
-	font-size: 11px;
-	font-family:'Helvetica Neue', Arial;
-	font-weight: 400;
-	letter-spacing: 1px;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	max-width: 390px;
-	margin-top: -10px;
-}
-
-.body4 {
-	color: black;
-	font-size: 11px;
-	font-family:'Helvetica Neue', Arial;
-	font-weight: 400;
-	letter-spacing: 1px;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	max-width: 390px;
-	margin-top: -10px;
-}
-
-.body5 {
-	color: black;
-	font-size: 11px;
-	font-family:'Helvetica Neue', Arial;
-	font-weight: 400;
-	letter-spacing: 1px;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	max-width: 390px;
-	margin-top: -10px;
-}
-
-.body6 {
-	color: black;
-	font-size: 11px;
-	font-family:'Helvetica Neue', Arial;
-	font-weight: 400;
-	letter-spacing: 1px;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	max-width: 390px;
-	margin-top: -10px;
-}
-
-
-}
-
-@media only screen and (min-width: 25em) {
-	
-html {
-	height: 110%;
-	font-size: 100%;
-	background-image:url(../img/background-white.jpg);
-	background-repeat: no-repeat;
-	background-attachment:fixed;
-	background-size: 1100px 700px;
-	margin: auto;
- }	
-	
-.billboard {
-	background-image:url(../img/billboard.jpg);
+	background-image:url(../img/bucket-1.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: contain;
-	margin-left: -5px;
-	height: 114px;
-	width: 400px;
-}
-
-.contentintro {
-	color: black;
-	font-size: 10px;
-	font-family: Arial, Helvetica, sans-serif;
-	font-weight: 100;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	max-width: 375px;
-}
-
-.introseparator {
-	position: relative;
-    bottom: 0;
-	top: 0px;
-    width: 100%;
-    height: 19px;
-	color: black;
-	border-top:thin;
-	border-top-color:black;
-	border-top-style:solid;
-	margin-left: -3px;
-	clear: both;
-	max-width: 375px;	
-}
-
-.introseparatortop {
-	position: relative;
-    bottom: 0;
-	top: 10px;
-    width: 100%;
-    height: 10px;
-	color: black;
-	border-top:thin;
-	border-top-color:black;
-	border-top-style:solid;
-	margin-left: -3px;
-	clear: both;
-	max-width: 375px;
-	margin-top: 10px;
-}
-
-.minwidth {
-	min-width:0px;
-	width: auto;
-	width: 400px;
-}
-
-.minwidth2 {
-	min-width:0px;
-	width: auto;
-	width: 400px;
-}
-
-.minwidth3 {
-	min-width:0px;
-	width: auto;
-	width: 400px;
-}
-
-.minwidth4 {
-	min-width:0px;
-	width: auto;
-	width: 400px;
-}
-
-.bucket1 {
-	width: 150px;
-	height: 150px;
-	background: grey;
-	margin-top: 20px;
-	float: left;
+	background-size: 150px 150px;
 }
 
 .bucket2 {
@@ -430,6 +119,11 @@ html {
 	margin-top: 20px;
 	float: left;
 	margin-left: 70px;
+	background-image:url(../img/bucket-2.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	background-size: 150px 150px;
 }
 
 .bucket3 {
@@ -438,6 +132,11 @@ html {
 	background: grey;
 	margin-top: 20px;
 	float: left;
+	background-image:url(../img/bucket-3.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	background-size: 150px 150px;
 }
 
 .bucket4 {
@@ -448,16 +147,20 @@ html {
 	margin-left: 70px;
 	float: left;
 	margin-bottom: 20px;
+	background-image:url(../img/bucket-4.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	background-size: 150px 150px;
 }
 
 .foot {
-	position: relative;
-    bottom: 0;
-	top: 14px;
+	position: fixed;
+    bottom: 0px;
     width: 100%;
     height: 19px;
 	color: black;
-	font-size: 9px;
+	font-size: 8px;
 	font-family: Helvetica, sans-serif;
 	font-weight: 100;
 	border-top:thin;
@@ -465,12 +168,13 @@ html {
 	border-top-style:solid;
 	margin-left: 0px;
 	clear: both;
-	max-width: 375px;
+	max-width: 370px;
+	background-image:url(../img/background-white.jpg);
 }
 
 footer p {
-	margin-left: 10px;
-	margin-top: 5px;
+	margin-left: 16px;
+	margin-top: 3px;
 }
 
 .header {
@@ -536,7 +240,7 @@ footer p {
 	text-decoration: none;
 	vertical-align: middle;
 	margin-left: -5px;
-	margin-top: -10px;
+	margin-top: 10px;
 	max-width: 420px;
 }
 
@@ -640,16 +344,58 @@ footer p {
 	margin-top: -10px;
 }
 
+.article1 {
+	color: black;
+	font-size: 14px;
+	font-family:'Helvetica Neue', Arial;
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: -5px;
+	max-width: 390px;
+	margin-top: -10px;
+	text-decoration: none;
 }
+
+.article2 {
+	color: black;
+	font-size: 14px;
+	font-family:'Helvetica Neue', Arial;
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: -5px;
+	max-width: 390px;
+	margin-top: 0px;
+	text-decoration: none;
+}
+
+.newsheader {
+	color: black;
+	font-size: 30px;
+	font-family:'Helvetica Neue', Arial;
+	font-weight: 400;
+	letter-spacing: 1px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 15px;
+	max-width: 390px;
+	margin-top: -17px;
+	text-decoration: none;
+}
+
+
 @media only screen and (min-width: 35.7em) {
 	
 html {
 	height: 110%;
 	font-size: 100%;
 	background-image:url(../img/background-white.jpg);
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	background-attachment:fixed;
-	background-size: 1100px 700px;
+	background-size: 1300px 900px;
 	margin: auto;
  }	
 	
@@ -737,6 +483,11 @@ html {
 	height: 200px;
 	background: grey;
 	margin-top: 20px;
+	background-image:url(../img/bucket-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	background-size: 200px 200px;
 }
 
 .bucket2 {
@@ -746,6 +497,11 @@ html {
 	margin-top: 20px;
 	margin-left: 164px;
 	float:left;
+	background-image:url(../img/bucket-2.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	background-size: 200px 200px;
 }
 
 .bucket3 {
@@ -753,6 +509,11 @@ html {
 	height: 200px;
 	background: grey;
 	margin-top: 20px;
+	background-image:url(../img/bucket-3.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	background-size: 200px 200px;
 }
 
 .bucket4 {
@@ -763,16 +524,20 @@ html {
 	margin-left: 164px;
 	margin-bottom: 20px;
 	float:left;
+	background-image:url(../img/bucket-4.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	background-size: 200px 200px;
 }
 
 .foot {
-	position: relative;
-    bottom: 0;
-	top: 14px;
+	position: fixed;
+    bottom: 0px;
     width: 100%;
     height: 19px;
 	color: black;
-	font-size: 9px;
+	font-size: 10px;
 	font-family: Helvetica, sans-serif;
 	font-weight: 100;
 	border-top:thin;
@@ -780,12 +545,13 @@ html {
 	border-top-style:solid;
 	margin-left: 0px;
 	clear: both;
-	max-width: 375px;
+	max-width: 565px;
+	background-image:url(../img/background-white.jpg);
 }
 
 footer p {
-	margin-left: 10px;
-	margin-top: 5px;
+	margin-left: 16px;
+	margin-top: 3px;
 }
 
 .author {
@@ -961,9 +727,9 @@ html {
 	height: 110%;
 	font-size: 100%;
 	background-image:url(../img/background-white.jpg);
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	background-attachment:fixed;
-	background-size: 1300px 800px;
+	background-size: 1300px 900px;
 	margin: auto;
  }	
 	
@@ -1052,6 +818,11 @@ html {
 	background: grey;
 	margin-top: 20px;
 	margin-left: 15px;
+	background-image:url(../img/bucket-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	background-size: 150px 150px;
 }
 
 .bucket2 {
@@ -1061,6 +832,11 @@ html {
 	margin-top: 20px;
 	float: left;
 	margin-left: 70px;
+	background-image:url(../img/bucket-2.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	background-size: 150px 150px;
 }
 
 .bucket3 {
@@ -1070,6 +846,11 @@ html {
 	margin-top: 20px;
 	margin-left: 70px;
 	float: left;
+	background-image:url(../img/bucket-3.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	background-size: 150px 150px;
 }
 
 .bucket4 {
@@ -1080,29 +861,34 @@ html {
 	margin-left: 70px;
 	margin-bottom: 50px;
 	float: left;
+	background-image:url(../img/bucket-4.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	background-size: 150px 150px;
 }
 
 .foot {
-	position: relative;
-    bottom: 0;
-	top: 14px;
+	position: fixed;
+    bottom: 0px;
     width: 100%;
     height: 19px;
 	color: black;
-	font-size: 9px;
+	font-size: 10px;
 	font-family: Helvetica, sans-serif;
 	font-weight: 100;
 	border-top:thin;
 	border-top-color:black;
 	border-top-style:solid;
-	margin-left: 0px;
+	margin-left: 15px;
 	clear: both;
-	max-width: 828px;
+	max-width: 810px;
+	background-image:url(../img/background-white.jpg);
 }
 
 footer p {
-	margin-left: 10px;
-	margin-top: 5px;
+	margin-left: 16px;
+	margin-top: 3px;
 }
 
 .header {
@@ -1333,9 +1119,9 @@ html {
 	height: 110%;
 	font-size: 100%;
 	background-image:url(../img/background-white.jpg);
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	background-attachment:fixed;
-	background-size: 1600px 1000px;
+	background-size: 1600px 1200px;
 	margin: auto;
  }	
 	
@@ -1361,22 +1147,6 @@ html {
 	min-width: 565px;
 }
 
-.introseparator {
-	position: relative;
-    bottom: 0;
-	top: 0px;
-    width: 100%;
-    height: 19px;
-	color: black;
-	border-top:thin;
-	border-top-color:black;
-	border-top-style:solid;
-	margin-left: 330px;
-	clear: both;
-	max-width: 565px;
-	min-width: 565px;	
-}
-
 .introseparatortop {
 	position: relative;
     bottom: 0;
@@ -1392,6 +1162,22 @@ html {
 	max-width: 565px;
 	margin-top: 10px;
 	min-width: 565px;
+}
+
+.introseparator {
+	position: relative;
+    bottom: 0;
+	top: 0px;
+    width: 100%;
+    height: 19px;
+	color: black;
+	border-top:thin;
+	border-top-color:black;
+	border-top-style:solid;
+	margin-left: 329px;
+	clear: both;
+	max-width: 565px;
+	min-width: 0px;	
 }
 
 .minwidth {
@@ -1423,6 +1209,11 @@ html {
 	height: 247px;
 	background: grey;
 	margin-top: 20px;
+	background-image:url(../img/bucket-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	background-size: 247px 247px;
 }
 
 .bucket2 {
@@ -1432,6 +1223,11 @@ html {
 	margin-top: 20px;
 	float: left;
 	margin-left: 70px;
+	background-image:url(../img/bucket-2.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	background-size: 247px 247px;
 }
 
 .bucket3 {
@@ -1440,6 +1236,11 @@ html {
 	background: grey;
 	margin-top: 20px;
 	margin-left: 70px;
+	background-image:url(../img/bucket-3.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	background-size: 247px 247px;
 }
 
 .bucket4 {
@@ -1449,29 +1250,34 @@ html {
 	margin-top: 20px;
 	margin-left: 70px;
 	margin-bottom: 50px;
+	background-image:url(../img/bucket-4.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	background-size: 247px 247px;
 }
 
 .foot {
-	position: relative;
-    bottom: 0;
-	top: 14px;
+	position: fixed;
+    bottom: 0px;
     width: 100%;
     height: 19px;
 	color: black;
-	font-size: 9px;
+	font-size: 10px;
 	font-family: Helvetica, sans-serif;
 	font-weight: 100;
 	border-top:thin;
 	border-top-color:black;
 	border-top-style:solid;
-	margin-left: 0px;
+	margin-left: 15px;
 	clear: both;
-	max-width: 1200px;
+	max-width: 1198px;
+	background-image:url(../img/background-white.jpg);
 }
 
 footer p {
-	margin-left: 10px;
-	margin-top: 5px;
+	margin-left: 16px;
+	margin-top: 3px;
 }
 
 .header {
@@ -1496,22 +1302,6 @@ footer p {
 	margin-left: 15px;
 	max-width: 280px;
 	margin-top: -10px;
-}
-
-.introseparator {
-	position: relative;
-    bottom: 0;
-	top: 0px;
-    width: 100%;
-    height: 19px;
-	color: black;
-	border-top:thin;
-	border-top-color:black;
-	border-top-style:solid;
-	margin-left: 15px;
-	clear: both;
-	max-width: 565px;
-	min-width: 1200px;	
 }
 
 .body {
@@ -1702,8 +1492,6 @@ footer p {
 	margin-top: -212px;
 	margin-left: 880px;
 }
-
-
 }
 
 
