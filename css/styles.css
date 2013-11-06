@@ -51,7 +51,7 @@ html {
 	color: black;
 	border-top:thin;
 	border-top-color:black;
-	border-top-style:solid;
+	border-top-style:dotted;
 	margin-left: -3px;
 	clear: both;
 	max-width: 400px;
@@ -67,7 +67,7 @@ html {
 	color: black;
 	border-top:thin;
 	border-top-color:black;
-	border-top-style:solid;
+	border-top-style:dotted;
 	margin-left: -3px;
 	clear: both;
 	max-width: 400px;
@@ -165,7 +165,7 @@ html {
 	font-weight: 100;
 	border-top:thin;
 	border-top-color:black;
-	border-top-style:solid;
+	border-top-style:dotted;
 	margin-left: 0px;
 	clear: both;
 	max-width: 370px;
@@ -344,48 +344,173 @@ footer p {
 	margin-top: -10px;
 }
 
-.article1 {
-	color: black;
-	font-size: 14px;
-	font-family:'Helvetica Neue', Arial;
-	font-weight: 400;
-	letter-spacing: 0px;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	max-width: 390px;
-	margin-top: -10px;
-	text-decoration: none;
-}
-
-.article2 {
-	color: black;
-	font-size: 14px;
-	font-family:'Helvetica Neue', Arial;
-	font-weight: 400;
-	letter-spacing: 0px;
-	text-decoration: none;
-	vertical-align: middle;
-	margin-left: -5px;
-	max-width: 390px;
-	margin-top: 0px;
-	text-decoration: none;
-}
-
 .newsheader {
 	color: black;
-	font-size: 30px;
+	font-size: 27px;
 	font-family:'Helvetica Neue', Arial;
 	font-weight: 400;
 	letter-spacing: 1px;
 	text-decoration: none;
 	vertical-align: middle;
-	margin-left: 15px;
+	margin-left: -5px;
 	max-width: 390px;
 	margin-top: -17px;
+	margin-bottom: -10px;
 	text-decoration: none;
 }
 
+.article1 {
+	background-image:url(../img/article-pic-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	margin-left: -5px;
+	margin-right: 10px;
+	height: 70px;
+	width: 110px;
+	float:left;
+}
+
+p.first{
+	color: black;
+	font-size: 14px;
+	font-family:'Helvetica Neue', Arial;
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 0px;
+	max-width: 600px;
+	margin-top: 0px;
+	text-decoration: none;
+}
+
+p.second{
+	color: black;
+	font-size: 10px;
+	font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 0px;
+	max-width: 400px;
+	margin-top: -10px;
+	text-decoration: none;
+}
+
+.newsseparator {
+	position: relative;
+    bottom: 0;
+	top: -3px;
+    width: 100%;
+    height: 19px;
+	color: black;
+	border-top:thin;
+	border-top-color:black;
+	border-top-style:dotted;
+	margin-left: 114px;
+	clear: both;
+	max-width: 288px;
+	min-width: 288px;	
+}
+
+.article2 {
+	background-image:url(../img/article-pic-2.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	margin-left: -5px;
+	margin-right: 10px;
+	height: 70px;
+	width: 110px;
+	float:left;
+}
+
+p.first2{
+	color: black;
+	font-size: 14px;
+	font-family:'Helvetica Neue', Arial;
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 0px;
+	max-width: 400px;
+	margin-top: 0px;
+	text-decoration: none;
+}
+
+p.second2{
+	color: black;
+	font-size: 10px;
+	font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 0px;
+	max-width: 400px;
+	margin-top: -10px;
+	text-decoration: none;
+}
+
+.headerseparator {
+	position: relative;
+    bottom: 0;
+	top: -15px;
+    width: 100%;
+    height: 19px;
+	color: black;
+	border-top:thin;
+	border-top-color:black;
+	border-top-style:dotted;
+	margin-left: -5px;
+	clear: both;
+	max-width: 400px;
+	min-width: 400px;	
+}
+
+header {
+	padding: 0;
+	width: 100%;
+}
+
+header ul {
+   color: black;
+   font-size: 10px;
+   font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
+   font-weight: 400;
+   text-decoration: none;
+   vertical-align: middle;
+   margin-left: -40px;
+   margin-top: 7px;
+   margin-bottom: 7px;
+}
+
+nav a,
+nav a:link,
+nav a:visited {
+	display: inline;
+	padding-left: 8px;
+	padding-right: 0px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: grey;
+	font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
+	font-weight: 100;
+	letter-spacing: 1px; 
+	text-decoration: none;
+}
+
+nav a:hover,
+nav a:focus,
+nav a:active {
+	color: red;
+}
+
+nav .selected {
+}
 
 @media only screen and (min-width: 35.7em) {
 	
@@ -430,7 +555,7 @@ html {
 	color: black;
 	border-top:thin;
 	border-top-color:black;
-	border-top-style:solid;
+	border-top-style:dotted;
 	margin-left: -3px;
 	clear: both;
 	max-width: 568px;
@@ -446,7 +571,7 @@ html {
 	color: black;
 	border-top:thin;
 	border-top-color:black;
-	border-top-style:solid;
+	border-top-style:dotted;
 	margin-left: -3px;
 	clear: both;
 	max-width: 568px;
@@ -542,7 +667,7 @@ html {
 	font-weight: 100;
 	border-top:thin;
 	border-top-color:black;
-	border-top-style:solid;
+	border-top-style:dotted;
 	margin-left: 0px;
 	clear: both;
 	max-width: 565px;
@@ -719,6 +844,173 @@ footer p {
 	margin-top: 10px;
 	max-width: 420px;
 }
+
+.article1 {
+	background-image:url(../img/article-pic-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	margin-left: -5px;
+	margin-right: 10px;
+	height: 80px;
+	width: 130px;
+	float:left;
+}
+
+p.first{
+	color: black;
+	font-size: 17px;
+	font-family:'Helvetica Neue', Arial;
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 0px;
+	max-width: 600px;
+	margin-top: 0px;
+	text-decoration: none;
+}
+
+p.second{
+	color: black;
+	font-size: 12px;
+	font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 0px;
+	max-width: 550px;
+	margin-top: -15px;
+	text-decoration: none;
+}
+
+.article2 {
+	background-image:url(../img/article-pic-2.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	margin-left: -5px;
+	margin-right: 10px;
+	height: 80px;
+	width: 130px;
+	float:left;
+}
+
+p.first2{
+	color: black;
+	font-size: 17px;
+	font-family:'Helvetica Neue', Arial;
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 0px;
+	max-width: 600px;
+	margin-top: 0px;
+	text-decoration: none;
+}
+
+p.second2{
+	color: black;
+	font-size: 12px;
+	font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 0px;
+	max-width: 550px;
+	margin-top: -15px;
+	text-decoration: none;
+}
+
+.newsheader {
+	color: black;
+	font-size: 30px;
+	font-family:'Helvetica Neue', Arial;
+	font-weight: 400;
+	letter-spacing: 1px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: -5px;
+	max-width: 390px;
+	margin-top: -17px;
+	text-decoration: none;
+}
+
+.newsseparator {
+	position: relative;
+    bottom: 0;
+	top: -3px;
+    width: 100%;
+    height: 19px;
+	color: black;
+	border-top:thin;
+	border-top-color:black;
+	border-top-style:dotted;
+	margin-left: 134px;
+	clear: both;
+	max-width: 410px;
+	min-width: 410px;	
+}
+
+.headerseparator {
+	position: relative;
+    bottom: 0;
+	top: -15px;
+    width: 100%;
+    height: 19px;
+	color: black;
+	border-top:thin;
+	border-top-color:black;
+	border-top-style:dotted;
+	margin-left: -5px;
+	clear: both;
+	max-width: 570px;
+	min-width: 570px;	
+}
+
+header {
+	padding: 0;
+	width: 100%;
+}
+
+header ul {
+   color: black;
+   font-size: 12px;
+   font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
+   font-weight: 400;
+   text-decoration: none;
+   vertical-align: middle;
+   margin-left: 17px;
+   margin-top: 7px;
+   margin-bottom: 7px;
+}
+
+nav a,
+nav a:link,
+nav a:visited {
+	display: inline;
+	padding-left: 8px;
+	padding-right: 0px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: grey;
+	font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
+	font-weight: 100;
+	letter-spacing: 1px; 
+	text-decoration: none;
+}
+
+nav a:hover,
+nav a:focus,
+nav a:active {
+	color: red;
+}
+
+nav .selected {
+}
 }
 
 @media only screen and (min-width: 51.6em) {
@@ -764,7 +1056,7 @@ html {
 	color: black;
 	border-top:thin;
 	border-top-color:black;
-	border-top-style:solid;
+	border-top-style:dotted;
 	margin-left: 15px;
 	clear: both;
 	max-width: 820px;
@@ -780,7 +1072,7 @@ html {
 	color: black;
 	border-top:thin;
 	border-top-color:black;
-	border-top-style:solid;
+	border-top-style:dotted;
 	margin-left: 15px;
 	clear: both;
 	max-width: 820px;
@@ -879,7 +1171,7 @@ html {
 	font-weight: 100;
 	border-top:thin;
 	border-top-color:black;
-	border-top-style:solid;
+	border-top-style:dotted;
 	margin-left: 15px;
 	clear: both;
 	max-width: 810px;
@@ -1104,13 +1396,171 @@ footer p {
 }
 
 .article1 {
+	background-image:url(../img/article-pic-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
 	margin-left: 15px;
+	margin-right: 10px;
+	height: 90px;
+	width: 150px;
+	float:left;
+}
+
+p.first{
+	color: black;
+	font-size: 18px;
+	font-family:'Helvetica Neue', Arial;
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 0px;
+	max-width: 700px;
+	margin-top: 0px;
+	text-decoration: none;
+}
+
+p.second{
+	color: black;
+	font-size: 13px;
+	font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 0px;
+	max-width: 700px;
+	margin-top: -15px;
+	text-decoration: none;
 }
 
 .article2 {
+	background-image:url(../img/article-pic-2.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
 	margin-left: 15px;
+	margin-right: 10px;
+	height: 90px;
+	width: 150px;
+	float:left;
 }
 
+p.first2{
+	color: black;
+	font-size: 18px;
+	font-family:'Helvetica Neue', Arial;
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 0px;
+	max-width: 700px;
+	margin-top: 0px;
+	text-decoration: none;
+}
+
+p.second2{
+	color: black;
+	font-size: 13px;
+	font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 0px;
+	max-width: 700px;
+	margin-top: -15px;
+	text-decoration: none;
+}
+
+.newsheader {
+	color: black;
+	font-size: 30px;
+	font-family:'Helvetica Neue', Arial;
+	font-weight: 400;
+	letter-spacing: 1px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 15px;
+	max-width: 390px;
+	margin-top: -17px;
+	text-decoration: none;
+}
+
+.newsseparator {
+	position: relative;
+    bottom: 0;
+	top: -3px;
+    width: 100%;
+    height: 19px;
+	color: black;
+	border-top:thin;
+	border-top-color:black;
+	border-top-style:dotted;
+	margin-left: 174px;
+	clear: both;
+	max-width: 523px;
+	min-width: 523px;	
+}
+
+.headerseparator {
+	position: relative;
+    bottom: 0;
+	top: -15px;
+    width: 100%;
+    height: 19px;
+	color: black;
+	border-top:thin;
+	border-top-color:black;
+	border-top-style:dotted;
+	margin-left: 15px;
+	clear: both;
+	max-width: 826px;
+	min-width: 826px;	
+}
+
+header {
+	padding: 0;
+	width: 100%;
+}
+
+header ul {
+   color: black;
+   font-size: 12px;
+   font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
+   font-weight: 400;
+   text-decoration: none;
+   vertical-align: middle;
+   margin-left: 160px;
+   margin-top: 7px;
+   margin-bottom: 7px;
+}
+
+nav a,
+nav a:link,
+nav a:visited {
+	display: inline;
+	padding-left: 8px;
+	padding-right: 0px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: grey;
+	font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
+	font-weight: 100;
+	letter-spacing: 1px; 
+	text-decoration: none;
+}
+
+nav a:hover,
+nav a:focus,
+nav a:active {
+	color: red;
+}
+
+nav .selected {
+}
 }
 
 @media only screen and (min-width: 80em) {
@@ -1156,7 +1606,7 @@ html {
 	color: black;
 	border-top:thin;
 	border-top-color:black;
-	border-top-style:solid;
+	border-top-style:dotted;
 	margin-left: 330px;
 	clear: both;
 	max-width: 565px;
@@ -1173,11 +1623,11 @@ html {
 	color: black;
 	border-top:thin;
 	border-top-color:black;
-	border-top-style:solid;
-	margin-left: 329px;
+	border-top-style:dotted;
+	margin-left: 330px;
 	clear: both;
 	max-width: 565px;
-	min-width: 0px;	
+	min-width: 565px;	
 }
 
 .minwidth {
@@ -1268,7 +1718,7 @@ html {
 	font-weight: 100;
 	border-top:thin;
 	border-top-color:black;
-	border-top-style:solid;
+	border-top-style:dotted;
 	margin-left: 15px;
 	clear: both;
 	max-width: 1198px;
@@ -1491,6 +1941,173 @@ footer p {
 	float: left;
 	margin-top: -212px;
 	margin-left: 880px;
+}
+
+.article1 {
+	background-image:url(../img/article-pic-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	margin-left: 15px;
+	margin-right: 10px;
+	height: 100px;
+	width: 170px;
+	float:left;
+}
+
+p.first{
+	color: black;
+	font-size: 19px;
+	font-family:'Helvetica Neue', Arial;
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 0px;
+	max-width: 900px;
+	margin-top: 0px;
+	text-decoration: none;
+}
+
+p.second{
+	color: black;
+	font-size: 14px;
+	font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 0px;
+	max-width: 900px;
+	margin-top: -15px;
+	text-decoration: none;
+}
+
+.article2 {
+	background-image:url(../img/article-pic-2.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	margin-left: 15px;
+	margin-right: 10px;
+	height: 100px;
+	width: 170px;
+	float:left;
+}
+
+p.first2{
+	color: black;
+	font-size: 19px;
+	font-family:'Helvetica Neue', Arial;
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 0px;
+	max-width: 900px;
+	margin-top: 0px;
+	text-decoration: none;
+}
+
+p.second2{
+	color: black;
+	font-size: 14px;
+	font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
+	font-weight: 400;
+	letter-spacing: 0px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 0px;
+	max-width: 900px;
+	margin-top: -15px;
+	text-decoration: none;
+}
+
+.newsheader {
+	color: black;
+	font-size: 40px;
+	font-family:'Helvetica Neue', Arial;
+	font-weight: 400;
+	letter-spacing: 1px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 15px;
+	max-width: 390px;
+	margin-top: -17px;
+	text-decoration: none;
+}
+
+.newsseparator {
+	position: relative;
+    bottom: 0;
+	top: -3px;
+    width: 100%;
+    height: 19px;
+	color: black;
+	border-top:thin;
+	border-top-color:black;
+	border-top-style:dotted;
+	margin-left: 197px;
+	clear: both;
+	max-width: 680px;
+	min-width: 680px;	
+}
+
+.headerseparator {
+	position: relative;
+    bottom: 0;
+	top: -23px;
+    width: 100%;
+    height: 19px;
+	color: black;
+	border-top:thin;
+	border-top-color:black;
+	border-top-style:dotted;
+	margin-left: 15px;
+	clear: both;
+	max-width: 1200px;
+	min-width: 1200px;	
+}
+
+header {
+	padding: 0;
+	width: 100%;
+}
+
+header ul {
+   color: black;
+   font-size: 15px;
+   font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
+   font-weight: 400;
+   text-decoration: none;
+   vertical-align: middle;
+   margin-left: 290px;
+   margin-top: 7px;
+   margin-bottom: 7px;
+}
+
+nav a,
+nav a:link,
+nav a:visited {
+	display: inline;
+	padding-left: 8px;
+	padding-right: 0px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: grey;
+	font-family: "HelveticaNeue-UltraLight" , 'Helvetica Neue UltraLight', 'Helvetica Neue';
+	font-weight: 100;
+	letter-spacing: 1px; 
+	text-decoration: none;
+}
+
+nav a:hover,
+nav a:focus,
+nav a:active {
+	color: red;
+}
+
+nav .selected {
 }
 }
 
