@@ -1220,6 +1220,19 @@ footer p {
 	margin-top: -10px;
 }
 
+.earthquakes101body {
+	color: black;
+	font-size: 11px;
+	font-family:'Helvetica Neue', Arial;
+	font-weight: 400;
+	letter-spacing: 1px;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 15px;
+	max-width: 250px;
+	margin-top: -10px;
+}
+
 .body2 {
 	color: black;
 	font-size: 11px;
@@ -1300,6 +1313,17 @@ footer p {
 	max-width: 250px;
 }
 
+.earthquakes101subheader {
+	color: black;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	vertical-align: middle;
+	margin-left: 15px;
+	margin-top: -10px;
+	max-width: 250px;
+}
+
 .subheader2 {
 	color: black;
 	font-size: 14px;
@@ -1308,7 +1332,7 @@ footer p {
 	vertical-align: middle;
 	margin-left: -5px;
 	margin-top: 10px;
-	max-width: 420px;
+	max-width: 250px;
 }
 
 .subheader3 {
@@ -1373,14 +1397,30 @@ footer p {
 	margin-left: 307px;
 }
 
+.earthquakes101rowcontainer00 {
+	float: left;
+	margin-top: -213px;
+	margin-left: 307px;
+}
+
 .rowcontainer22 {
 	float: left;
 	margin-top: -300px;
 	margin-left: 595px;
 }
 
+.earthquakes101rowcontainer22 {
+	float: left;
+	margin-top: -347px;
+	margin-left: 595px;
+}
+
 .rowcontainer33 {
 	margin-top: 30px;
+}
+
+.earthquakes101rowcontainer33 {
+	margin-top: 0px;
 }
 
 .rowcontainer44 {
@@ -1389,9 +1429,21 @@ footer p {
 	margin-left: 305px;
 }
 
+.earthquakes101rowcontainer44 {
+	float: left;
+	margin-top: -204px;
+	margin-left: 305px;
+}
+
 .rowcontainer55 {
 	float: left;
 	margin-top: -298px;
+	margin-left: 595px;
+}
+
+.earthquakes101rowcontainer55 {
+	float: left;
+	margin-top: -200px;
 	margin-left: 595px;
 }
 

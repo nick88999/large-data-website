@@ -28,13 +28,19 @@
 </head>
 <body>
 
-<div class="billboard"> </div>
+<ul class="skiplinks">
+        <li><a href="#main">Skip to main content</a></li>
+        <li><a href="#primenav">Skip to primary navigation</a></li>
+</ul>
 
-{{content}}
+<header role="banner" class="billboard" id="top"></header>
+        
+<div id="main"> {{content}} </div>
 
 <div class="foot">   
-	<footer>
-    	<p> © 2013 Nick Appolon. All right reserved. Please do not reproduce without the expressed written consent of Nick Appolon. </p>
+	<footer role="contentinfo">
+        
+    	<p><a href="#top">Top</a> © 2013 Nick Appolon. All right reserved. Please do not reproduce without the expressed written consent of Nick Appolon. </p>
     </footer>
 </div>
 
