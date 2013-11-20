@@ -1016,7 +1016,7 @@ nav .selected {
 @media only screen and (min-width: 51.6em) {
 	
 html {
-	height: 110%;
+	height: 170%;
 	font-size: 100%;
 	background-image:url(../img/background-white.jpg);
 	background-repeat: repeat;
@@ -1379,72 +1379,54 @@ footer p {
 	max-width: 420px;
 }
 
-.rowcontainer {
+.rowcontainer0 {
 	float: left;
-	margin-top: -380px;
-	margin-left: 307px;
+}
+
+.rowcontainer {
+	margin-left: 42px;
+	float: left;
 }
 
 .rowcontainer2 {
 	float: left;
-	margin-top: -512px;
-	margin-left: 595px;
+	margin-left: 42px;
 }
 
 .rowcontainer00 {
 	float: left;
-	margin-top: -300px;
-	margin-left: 307px;
 }
 
-.earthquakes101rowcontainer00 {
+.rowcontainer11 {
 	float: left;
-	margin-top: -213px;
-	margin-left: 307px;
+	margin-left: 42px;
 }
 
 .rowcontainer22 {
 	float: left;
-	margin-top: -300px;
-	margin-left: 595px;
-}
-
-.earthquakes101rowcontainer22 {
-	float: left;
-	margin-top: -347px;
-	margin-left: 595px;
+	margin-left: 42px;
 }
 
 .rowcontainer33 {
-	margin-top: 30px;
-}
-
-.earthquakes101rowcontainer33 {
-	margin-top: 0px;
+	float: left;
 }
 
 .rowcontainer44 {
 	float: left;
-	margin-top: -277px;
-	margin-left: 305px;
-}
-
-.earthquakes101rowcontainer44 {
-	float: left;
-	margin-top: -204px;
-	margin-left: 305px;
+	margin-left: 42px;
 }
 
 .rowcontainer55 {
 	float: left;
-	margin-top: -298px;
-	margin-left: 595px;
+	margin-left: 42px;
 }
 
-.earthquakes101rowcontainer55 {
+.japanwrapper1 {
 	float: left;
-	margin-top: -200px;
-	margin-left: 595px;
+}
+
+.japanwrapper2 {
+	float: left;
 }
 
 .article1 {
@@ -1618,7 +1600,7 @@ nav .selected {
 @media only screen and (min-width: 80em) {
 	
 html {
-	height: 110%;
+	height: 160%;
 	font-size: 100%;
 	background-image:url(../img/background-white.jpg);
 	background-repeat: repeat;
@@ -1954,45 +1936,42 @@ footer p {
 	max-width: 420px;
 }
 
+.rowcontainer0 {
+	float: left;
+}
+
 .rowcontainer {
 	float: left;
-	margin-top: -270px;
-	margin-left: 440px;
+	margin-left: 60px;
 }
 
 .rowcontainer2 {
 	float: left;
-	margin-top: -355px;
-	margin-left: 880px;
+	margin-left: 60px;
 }
 
 .rowcontainer00 {
 	float: left;
-	margin-top: -214px;
-	margin-left: 440px;
+}
+
+.rowcontainer11 {
+	float: left;
 }
 
 .rowcontainer22 {
 	float: left;
-	margin-top: -215px;
-	margin-left: 880px;
 }
 
 .rowcontainer33 {
-	margin-top: 30px;
-	margin-left: 0px;
+	float: left;
 }
 
 .rowcontainer44 {
 	float: left;
-	margin-top: -192px;
-	margin-left: 440px;
 }
 
 .rowcontainer55 {
 	float: left;
-	margin-top: -212px;
-	margin-left: 880px;
 }
 
 .article1 {
