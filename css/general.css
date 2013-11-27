@@ -1,0 +1,15 @@
+html {
+	background-color: #ccc;
+}
+
+body {
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+@media only screen and (min-width: 240px) {
+	
+	body {
+		max-width: none;
+	}
+}

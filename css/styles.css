@@ -488,6 +488,17 @@ header ul {
    margin-bottom: 7px;
 }
 
+.error {
+	width: 402px;
+	height: 315px;
+	margin-top: 15px;
+	margin-left: -7px;
+	background-image:url(../img/404.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+}
+
 nav a,
 nav a:link,
 nav a:visited {
@@ -986,6 +997,17 @@ header ul {
    margin-left: 17px;
    margin-top: 7px;
    margin-bottom: 7px;
+}
+
+.error {
+	width: 572px;
+	height: 440px;
+	margin-top: 15px;
+	margin-left: 0px;
+	background-image:url(../img/404.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
 }
 
 nav a,
@@ -1572,6 +1594,17 @@ header ul {
    margin-bottom: 7px;
 }
 
+.error {
+	width: 829px;
+	height: 638px;
+	margin-top: 15px;
+	margin-left: 15px;
+	background-image:url(../img/404.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+}
+
 nav a,
 nav a:link,
 nav a:visited {
@@ -2115,6 +2148,17 @@ header ul {
    margin-left: 290px;
    margin-top: 7px;
    margin-bottom: 7px;
+}
+
+.error {
+	width: 1200px;
+	height: 925px;
+	margin-top: 15px;
+	margin-left: 15px;
+	background-image:url(../img/404.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
 }
 
 nav a,
